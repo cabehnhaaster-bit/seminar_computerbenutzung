@@ -1,1 +1,5 @@
-# seminar_computerbenutzung-
+# seminar_computerbenutzung
+
+Test für das Seminar 
+q wea esto 
+

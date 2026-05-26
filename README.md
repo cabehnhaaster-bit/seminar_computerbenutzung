@@ -1,2 +1,3 @@
 # seminar_computerbenutzung
-Test für den Seminar Computerbenutzung und Programmierung 
+Test für das Seminar 
+q wea esto 

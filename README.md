@@ -1,3 +1,3 @@
 # seminar_computerbenutzung
-Übung fetch pull /n
+Übung fetch pull \n
 push origin 
